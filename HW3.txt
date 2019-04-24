@@ -1,4 +1,3 @@
-aaaaa
-aaaaa
-aaaaa
-aaaaa
+# Homework 2
+
+My name is Boyoon Chung (put your name here). This is for homework 2.
